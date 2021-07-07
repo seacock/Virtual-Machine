@@ -1,0 +1,7 @@
+VisualStudioCommunity2019 monitors WMware machine
+
+Here there is a succession of steps as suggested by 
+https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/setting-up-a-connection-to-a-virtual-machine-in-visual-studio . I completed them in one hour.
+After 2 days of failures following https://docs.microsoft.com/en-us/windows-hardware/drivers/gettingstarted/writing-a-very-small-kmdf--driver , I turned back again 
+to this VM. I would prefer VM to the configuration of 2 separate PCs: the fact is that there is more documentation about 2 PCs than VM. 
+I think I lack USB 3.0 debug cable to connect 2 PCs: I'm waiting for it. Meanwhile I try to go on with VM.
